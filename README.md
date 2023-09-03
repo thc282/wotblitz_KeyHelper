@@ -18,7 +18,7 @@ This is a key helper, not a cheat engine/tools
 > | `Shift + S` | Storage |
 > | `C` | Chat |
 > | `Alt + C` | Clan |
-> | `P` | Platoon [nothing](#platoon) | 
+> | `P` | [Platoon](#platoon) | 
 > | `Shift + T` | Tournament |
 > | `R` | Tranning Room |
 > | `Shift + C` | Communities |
