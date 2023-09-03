@@ -40,8 +40,9 @@ This is a key helper, not a cheat engine/tools
 | Key | Functions | Note |
 | :--: | :-- | :-- |
 | `1~0` | Select tier |
+| `Capslock[On]` + `1~9` | Select Nation \[USA/German/USSR/UK/JP/CN/FC/EU/SP\] |
 | `H`/`J`/`K`/`L` | Select Tank Type \[LT/MT/HT/TD\]|
-| `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open platoon[^plat] |
+| `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, </br>otherwise open platoon[^plat] |
 </details>
 
 <details>
