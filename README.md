@@ -18,7 +18,7 @@ This is a key helper, not a cheat engine/tools
 > | `Shift + S` | Storage |
 > | `C` | Chat |
 > | `Alt + C` | Clan |
-> | `P` | [Platoon](#platoon) | 
+> | `P` | Platoon[^plat] | 
 > | `Shift + T` | Tournament |
 > | `R` | Tranning Room |
 > | `Shift + C` | Communities |
@@ -32,6 +32,7 @@ This is a key helper, not a cheat engine/tools
 > | `5` | Provisions |
 > | `6` | Ammo |
 > | `7` | Equipment |
+[^plat]: Since filter and side menu in same screen, Capslock On with `Pinned tank` | Off with open platoon
 </details>
 
 <details> 
@@ -41,7 +42,7 @@ This is a key helper, not a cheat engine/tools
 > | :--: | :-- | :-- |
 > | `1~0` | Select tier |
 > | `H`/`J`/`K`/`L` | Select Tank Type \[LT/MT/HT/TD\]|
-> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon](https://github.com/thc282/wotblitz_KeyHelper#platoon) |
+> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon](https://github.com/thc282/wotblitz_KeyHelper#in-garage-screen)[^plat] |
 </details>
 
 <details>
