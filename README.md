@@ -1,8 +1,13 @@
 # Wotblitz_KeyHelper
+<table>
+  <tr>
+    <td valign="center"><img src="https://github.com/jdecked/twemoji/blob/main/assets/svg/1f1fa-1f1f8.svg" width="16"/>English</a></td>
+    <td valign="center"><a href="README_CNT.md"><img src="https://github.com/jdecked/twemoji/blob/main/assets/svg/1f1f9-1f1fc.svg" width="16"/>Traditional Chinese</a></td>
+  </tr>
+</table>
+
 A Simple HotKey Helper in World of tank Blitz \
 This is a key helper, not a cheat engine/tools
-
-
 
 ## Function (`Alt+N` to toggle on/off) 
 <details>
@@ -46,7 +51,7 @@ This is a key helper, not a cheat engine/tools
 | :--: | :-- | :-- |
 | Hold `` ` `` 0.3s | Auto Forward | Press `W`/`S` to take over control |
 | `NumPad 1~9` | Select Sector | Only Work with Mid/Big size map |
-| Hold `MButton` | Keep Fire | For autoloader tank |
+| Hold `MButton` </br>(Mouse Mid Button) | Continuous Fire | For autoloader tank |
 </details>
 
 ***
