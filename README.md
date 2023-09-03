@@ -42,7 +42,7 @@ This is a key helper, not a cheat engine/tools
 > | :--: | :-- | :-- |
 > | `1~0` | Select tier |
 > | `H`/`J`/`K`/`L` | Select Tank Type \[LT/MT/HT/TD\]|
-> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon]()[^plat] |
+> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon](https://github.com/thc282/wotblitz_KeyHelper/tree/main#user-content-fnref-plat-4422c56bd76ab68f98bb4c278da78f48)[^plat] |
 </details>
 
 <details>
