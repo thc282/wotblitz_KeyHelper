@@ -8,8 +8,8 @@ This is a key helper, not a cheat engine/tools
 <details>
 <summary><h4>In Garage Screen</h4></summary>
 
-> | Key | Functions |
-> | :--: | :-- |
+> | Key | Functions | |||||||
+> | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 > | `` ` `` | Profile |
 > | `~` | Store |
 > | `Shift + M` | Mail |
@@ -24,14 +24,8 @@ This is a key helper, not a cheat engine/tools
 > | `Shift + C` | Communities |
 > | `S` | Setting |
 > | `Space` | Select Game Mode |
-> | `Shift + 1~7` | ---------------------- |
-> | `1` | Crew |
-> | `2` | Tank Rank |
-> | `3` | Camo |
-> | `4` | Consumables |
-> | `5` | Provisions |
-> | `6` | Ammo |
-> | `7` | Equipment |
+> | `Shift + 1~7`| -------------------- | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+> | ------------- | -------------------- | Crew | Tank Rank | Camo | Consumables | Provisions | Ammo | Equipment |
 [^plat]: Since filter and side menu in same screen, Capslock On with `Pinned tank` | Off with open platoon
 </details>
 
