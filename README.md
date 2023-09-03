@@ -18,7 +18,7 @@ This is a key helper, not a cheat engine/tools
 > | `Shift + S` | Storage |
 > | `C` | Chat |
 > | `Alt + C` | Clan |
-> | `P` | Platoon | 
+> | `P` | Platoon[^plat] | 
 > | `Shift + T` | Tournament |
 > | `R` | Tranning Room |
 > | `Shift + C` | Communities |
@@ -42,7 +42,7 @@ This is a key helper, not a cheat engine/tools
 > | :--: | :-- | :-- |
 > | `1~0` | Select tier |
 > | `H`/`J`/`K`/`L` | Select Tank Type \[LT/MT/HT/TD\]|
-> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon](https://github.com/thc282/wotblitz_KeyHelper#user-content-fnref-plat-9074a37145b0a5cadb82f7c9d52174a1)[^plat] |
+> | `Capslock[On]` + `P` | Select Pinned Tank | Capslock on to choose pinned, otherwise open [platoon]()[^plat] |
 </details>
 
 <details>
