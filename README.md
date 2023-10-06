@@ -57,7 +57,12 @@ This is a key helper, not a cheat engine/tools
 
 ***
 ## How to install ❓
-
+1. Go to [Version List](https://github.com/thc282/wotblitz_KeyHelper/releases/tag/v1.0.0) to find a suitable version
+OR
+Direct [Download v1 here](https://github.com/thc282/wotblitz_KeyHelper/releases/download/v1.0.0/wotb.zip)
+2. Unzip & Double click the wotb.exe to run
+> CheatSheet is provided in the zip file
+3. You can exit the app at Windows tray menu
 
 ***
 ## ❗❗ IMPORTANT ❗❗
