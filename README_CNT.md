@@ -57,7 +57,12 @@
 
 ***
 ## 如何安裝 ❓
-
+1. 到 [版本列表](https://github.com/thc282/wotblitz_KeyHelper/releases/tag/v1.0.0) 找一個合適版本
+或
+直接 [下載v1](https://github.com/thc282/wotblitz_KeyHelper/releases/download/v1.0.0/wotb.zip)
+2. 解壓 & 雙擊wotb.exe運行
+> 壓縮檔裡已提供快捷鍵清單
+3. 你可以隨時在Windows的圖示列表(tray menu)退出插件
 
 ***
 ## ❗❗ 注意 ❗❗
